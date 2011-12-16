@@ -1,0 +1,12 @@
+{
+    "name": "ods-add-example"
+  , "private": true
+  , "description": "example ODS solution for simple add program"
+  , "keywords": ["ODS", "TDD", "Outcome", "test"]
+  , "author": "Marty Nelson <@martypdx>"
+  , "repository": { "type": "git", "url": "git://github.com/martypdx/ods-add.git" }  
+  , "dependencies": {
+        "colors": "*"
+	 ,  "commander": ">=0.5.0"
+    }
+}
